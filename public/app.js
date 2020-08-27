@@ -1,7 +1,23 @@
-let navBtns = $('.nav-btn');
+function getBlogs() {
+  $.ajax({
+    type: "GET",
+    url: window.location + 'getBlogs',
+    success: (res, status)=> {
+      console.log("Status: ", status);
+      //console.log("data: ", res);
+      makeCards(res);
+    },
+    error: (error)=> {
+      console.log(error);
+    }
+  }) 
+}
+getBlogs();
 
-navBtns.each((i, btn) => {  
-  $(btn).click(() => {
-   
-  });
-});
+function makeCards(blogs)  {
+  blogs.forEach(element => {
+    console.log(element);
+  });  
+}
+
+

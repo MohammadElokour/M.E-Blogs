@@ -9,7 +9,6 @@ body {
     animation: moveGradient 1s alternate infinite;
 }
 
-
 header {
     display: flex;
     justify-content: center;
