@@ -15,8 +15,16 @@ function getBlogs() {
 getBlogs();
 
 function makeCards(blogs)  {
-  blogs.forEach(element => {
-    console.log(element);
+  blogs.forEach(blog => {
+    $('#blog-cards').append(`
+      <div class="cards">
+        <img src=${blog.img}/>
+        <h2>${blog.title}</h2>
+        <div class="author">
+          <p>${blog.author}</p>
+        </div>
+      </div>`
+    )
   });  
 }
 

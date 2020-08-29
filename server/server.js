@@ -8,7 +8,7 @@ const public = path.join(__dirname, '../public')
 let blogs = [
   {
     title: 'Nature',
-    img: 'https://docs.microsoft.com/en-us/windows/uwp/design/controls-and-patterns/images/image_licorice.jpg',
+    img: 'https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm21-smoke-bb-5_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=c8347a73d6427dda5d03bd1100c39354',
     author: "Mark James",
     body: 
     `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a magna massa. Vestibulum eu sapien convallis, 
@@ -20,7 +20,7 @@ let blogs = [
   }, 
   {
     title: 'Coding',
-    img: 'https://docs.microsoft.com/en-us/windows/uwp/design/controls-and-patterns/images/image_licorice.jpg',
+    img: 'https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm21-smoke-bb-5_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=c8347a73d6427dda5d03bd1100c39354',
     author: "Mark James",
     body: 
     `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a magna massa. Vestibulum eu sapien convallis, 
@@ -33,7 +33,7 @@ let blogs = [
   },
   {
     title: 'Biography',
-    img: 'https://docs.microsoft.com/en-us/windows/uwp/design/controls-and-patterns/images/image_licorice.jpg',
+    img: 'https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm21-smoke-bb-5_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=c8347a73d6427dda5d03bd1100c39354',
     author: "Mark James",
     body: 
     `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a magna massa. Vestibulum eu sapien convallis, 
@@ -46,7 +46,7 @@ let blogs = [
   },
   {
     title: 'Sports',
-    img: 'https://docs.microsoft.com/en-us/windows/uwp/design/controls-and-patterns/images/image_licorice.jpg',
+    img: 'https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm21-smoke-bb-5_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=c8347a73d6427dda5d03bd1100c39354',
     author: "Mark James",
     body: 
     `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a magna massa. Vestibulum eu sapien convallis, 
@@ -59,7 +59,7 @@ let blogs = [
   },
   {
     title: 'Health',
-    img: 'https://docs.microsoft.com/en-us/windows/uwp/design/controls-and-patterns/images/image_licorice.jpg',
+    img: 'https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm21-smoke-bb-5_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=c8347a73d6427dda5d03bd1100c39354',
     author: "Mark James",
     body: 
     `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a magna massa. Vestibulum eu sapien convallis, 
@@ -72,7 +72,7 @@ let blogs = [
   },
   {
     title: 'Food',
-    img: 'https://docs.microsoft.com/en-us/windows/uwp/design/controls-and-patterns/images/image_licorice.jpg',
+    img: 'https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm21-smoke-bb-5_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=c8347a73d6427dda5d03bd1100c39354',
     author: "Mark James",
     body: 
     `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a magna massa. Vestibulum eu sapien convallis, 
